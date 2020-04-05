@@ -1,0 +1,6 @@
+service namespace "TEST" {
+	"TEST"."EMPLOYEE" as "Employee";
+}
+annotations {
+   enable OData4SAP;
+}
